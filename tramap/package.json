@@ -1,0 +1,26 @@
+{
+  "name": "tramap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Medyooo/DataVizualisationTP.git"
+  },
+  "author": "Medev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Medyooo/DataVizualisationTP/issues"
+  },
+  "homepage": "https://github.com/Medyooo/DataVizualisationTP#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "leaflet": "^1.9.4"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.14"
+  }
+}
